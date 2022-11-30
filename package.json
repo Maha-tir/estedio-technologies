@@ -1,0 +1,25 @@
+{
+  "name": "estedio-technologies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maha-tir/estedio-technologies.git"
+  },
+  "keywords": [
+    "Estedio",
+    "Technologies",
+    "EstedioTeam",
+    "Estedio"
+  ],
+  "author": "Estedio Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maha-tir/estedio-technologies/issues"
+  },
+  "homepage": "https://github.com/Maha-tir/estedio-technologies#readme"
+}
